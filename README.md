@@ -29,13 +29,13 @@ system-mon help
 
 # Usage
 
-| Method                             | Description                                |
-| :--------------------------------- | :----------------------------------------- |
-| **system-mon get-proc**            | Get all running processes                  |
-| **system-mon kill-proc -PID-**     | Kill process by PID                        |
-| **system-mon memory-usage**        | Get RAM usage                              |
-| **system-mon cpu-usage**           | Get CPU usage                              |
-| **system-mon get-proc-info -PID-** | Get all process information by PID         |
-| **system-mon get-disk-info -PATH** | Get free space of path directory           |
-| **system-mon get-cpu-name**        | Get name of your CPU                       |
-| **system-mon get-os-name**         | Get name of your operating system          |
+| Method                              | Description                                |
+| :---------------------------------  | :----------------------------------------- |
+| **system-mon get-proc**             | Get all running processes                  |
+| **system-mon kill-proc -PID-**      | Kill process by PID                        |
+| **system-mon memory-usage**         | Get RAM usage                              |
+| **system-mon cpu-usage**            | Get CPU usage                              |
+| **system-mon get-proc-info -PID-**  | Get all process information by PID         |
+| **system-mon get-disk-info -PATH-** | Get free space of path directory           |
+| **system-mon get-cpu-name**         | Get name of your CPU                       |
+| **system-mon get-os-name**          | Get name of your operating system          |
