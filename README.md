@@ -1,5 +1,5 @@
 # About
-Simple util to print some system info for Linux
+Simple util to print some system information for Linux
 
 # How to build
 First, be sure that you have all of packages:
@@ -8,6 +8,7 @@ First, be sure that you have all of packages:
 | :-------------------- |
 | **make build system** |
 | **sudo**              |
+| **git**               |
 
 Then download repository:
 
