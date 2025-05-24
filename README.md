@@ -5,6 +5,7 @@ Simple util to print some system info for Linux
 First, be sure that you have all of packages:
 
 | **gcc compiler**      |
+| :-------------------- |
 | **make build system** |
 | **sudo**              |
 
