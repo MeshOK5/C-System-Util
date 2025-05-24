@@ -1,0 +1,14 @@
+#pragma once
+#include <stdio.h>
+#include <stdlib.h>
+#include <string.h>
+#include <dirent.h>
+#include <signal.h>
+#include <ctype.h>
+#include <unistd.h>
+#include <assert.h>
+#include <sys/statvfs.h>
+#include "process.h"
+#include "help.h"
+#include "system_info.h"
+#include "resource_use.h"
