@@ -8,7 +8,9 @@
 #include <unistd.h>
 #include <assert.h>
 #include <sys/statvfs.h>
+#include <stdbool.h>
 #include "process.h"
 #include "help.h"
 #include "system_info.h"
+#include "port_scan.h"
 #include "resource_use.h"

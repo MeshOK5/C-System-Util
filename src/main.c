@@ -33,6 +33,11 @@ int main(int argc, char* argv[])
 	}
 	else if(!strcmp(argv[1], "get-cpu-name"))
 		printf_cpu_name();
+	else if(!strcmp(argv[1], "scan-all-ports"))
+	{
+		assert(argc >= 3);
+		scan_proc_ports(argv[2]);
+	}
 	else
 	{
 		perror("No such method. Type \"help\" for all methods");

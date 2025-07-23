@@ -10,4 +10,5 @@ void printf_help()
 	printf("get-disk-info -Path- - Get free space in path directory\n");
 	printf("get-cpu-name - Get name of your CPU\n");
 	printf("get-os-name - Get name of your operating system\n");
+	printf("scan-all-ports -PID- - Get all ports on process");
 }
