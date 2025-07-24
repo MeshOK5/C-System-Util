@@ -40,3 +40,4 @@ system-mon help
 | **system-mon get-disk-info -PATH-** | Get free space of path directory           |
 | **system-mon get-cpu-name**         | Get name of your CPU                       |
 | **system-mon get-os-name**          | Get name of your operating system          |
+| **system-mon scan-all-ports -PID-** | Get all ports on process                   |

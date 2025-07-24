@@ -5,7 +5,7 @@ void scan_proc_ports(char* pid)
     char path[100];
     char buffer[256];
 
-    strcat(path, "proc/");
+    strcat(path, "/proc/");
     strcat(path, pid);
     strcat(path, "/net/tcp");
 
